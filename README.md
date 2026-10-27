@@ -1,7 +1,9 @@
 # Supermarket-Program-Python
 # 🛒 Supermarket Program — Python
+and
+# 🎮 Arcade Game Shop — Python
 
-A beginner Python project that simulates a simple supermarket checkout system. It allows users to select products, enter quantities, calculate prices, and proceed through a basic checkout process.
+A beginner Python project that simulates a simple supermarket and gaming store checkout system. It allows users to select products, enter quantities, calculate prices, and proceed through a basic checkout process.
 
 This project was created as part of my journey into programming and learning Python.
 
